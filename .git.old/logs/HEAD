@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 87dce58c4653ce268c9ac6c2601bfdcf99852674 Henrique-Arau <penielh43@gmail.com> 1635212621 -0300	commit (initial): inicial commit
+87dce58c4653ce268c9ac6c2601bfdcf99852674 a1e86a448ed506cdce3b78e5f8275f2d817d6ee8 Henrique-Arau <penielh43@gmail.com> 1635213709 -0300	commit: angular material instalado no projeto
+a1e86a448ed506cdce3b78e5f8275f2d817d6ee8 73f36ae9f94cf4dd57d661e161e81bd7a5620467 Henrique-Arau <penielh43@gmail.com> 1635224409 -0300	commit: home implementado com rota
+73f36ae9f94cf4dd57d661e161e81bd7a5620467 4e17f39d9b61c51e58f619e1b9a338139f278efa Henrique-Arau <penielh43@gmail.com> 1635235359 -0300	commit: categoria-read foi implementada
+4e17f39d9b61c51e58f619e1b9a338139f278efa e330454959d14b86a416d7746308813ff2a4ab30 Henrique-Arau <penielh43@gmail.com> 1635238922 -0300	commit: ajustes no component-read
+e330454959d14b86a416d7746308813ff2a4ab30 ca078593229aed4f2946c5023480239288baafd9 Henrique-Arau <penielh43@gmail.com> 1635265335 -0300	commit: Metodo create implementado para categoria
+ca078593229aed4f2946c5023480239288baafd9 5fd2648c9fb3ad7dceebbe3f9ee2eaca10389ece Henrique-Arau <penielh43@gmail.com> 1635283304 -0300	commit: finalizando o metodo CREATE
+5fd2648c9fb3ad7dceebbe3f9ee2eaca10389ece a1fe2e9066ac3bf364e5d3dcc44ec29c1a9b927a Henrique-Arau <penielh43@gmail.com> 1635300904 -0300	commit: categoria delete implementado
+a1fe2e9066ac3bf364e5d3dcc44ec29c1a9b927a 1da9e4cd00cb9e212fdd6bf40ab7ec1e5757df22 Henrique-Arau <penielh43@gmail.com> 1635341743 -0300	commit: UPDATE para categoria foi implementada
+1da9e4cd00cb9e212fdd6bf40ab7ec1e5757df22 1b88db82f62077a712e9681296584a9fe9dc40a9 Henrique-Arau <penielh43@gmail.com> 1635351579 -0300	commit: leitura de todos os usuarios por categoria implementado
+1b88db82f62077a712e9681296584a9fe9dc40a9 e0823a3d742caa4ff01901d4ed4cf2d7fd67e26b Henrique-Arau <penielh43@gmail.com> 1635390773 -0300	commit: UPDATE para usuario implementado
+e0823a3d742caa4ff01901d4ed4cf2d7fd67e26b c68c8ffb75ff076ec7ef44a25408f5da6242ffe7 Henrique-Arau <penielh43@gmail.com> 1635400380 -0300	commit: DELETE para Usuarios implementado
+c68c8ffb75ff076ec7ef44a25408f5da6242ffe7 ef5d9ac5ed8dde6068e7a03d8b9e7250b419cb5a Henrique-Arau <penielh43@gmail.com> 1635400832 -0300	commit: corrigindo erro no usuario-delete.component.html
+ef5d9ac5ed8dde6068e7a03d8b9e7250b419cb5a ba19eed03c3c82b032d55631ef5e193a24c5b254 Henrique-Arau <penielh43@gmail.com> 1635403664 -0300	commit: READ para usuario implementado
